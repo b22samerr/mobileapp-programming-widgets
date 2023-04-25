@@ -27,13 +27,14 @@
         android:layout_height="63dp"
         android:layout_marginLeft="400px"
         android:layout_marginTop="100px"
-        android:text="Besök personen!" />
+        android:text="Besök stjärna" />
 
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:srcCompat="@android:drawable/btn_star_big_on" />
+        app:srcCompat="@android:drawable/btn_star"
+        tools:srcCompat="@android:drawable/btn_star" />
 
     <Switch
         android:id="@+id/switch1"
