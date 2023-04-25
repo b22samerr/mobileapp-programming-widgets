@@ -12,7 +12,7 @@ Koden som positionerar "knapp" widgeten syns nedan
         android:layout_height="63dp"
         android:layout_marginLeft="400px"
         android:layout_marginTop="100px"
-        android:text="Besök personen" />
+        android:text="Besök personen!" />
 ```
 
 
