@@ -27,7 +27,7 @@
         android:layout_height="63dp"
         android:layout_marginLeft="400px"
         android:layout_marginTop="100px"
-        android:text="Besök stjärna" />
+        android:text="Besök stjärna!" />
 
     <ImageView
         android:id="@+id/imageView"
